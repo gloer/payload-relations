@@ -1,4 +1,5 @@
-# Payload CMS + Docker starterprosjekt
+# Payload CMS + Docker starterprosjekt - Versjon fra Gløer om relasjoner
+`npx degit gloer/payload-relations`
 
 Dette repositoryet inneholder en tilpasset variant av Payload sin starter-template, spesifikt ment for å brukes til å lage en Docker-container som kan kjøres. 
 
